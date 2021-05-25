@@ -1,6 +1,10 @@
 # Replication-files
 Online supplementary materials from my publications
 
+* **replication-files\_jepp2020_main_models.zip**
+
+Hermansen, Silje Synnøve Lyder (2020) ["Building legitimacy: strategic case allocations in the Court of Justice of the European Union"](https://www-tandfonline-com.ezproxy.uio.no/doi/full/10.1080/13501763.2020.1714697) in *Journal of European Public Policy*, 27(8), pp 1215-1235 
+
 * **replication-files\_pp2018.zip**
 
 Hermansen, Silje Synnøve Lyder (2018) ["Striving for influence: The effect of performance on candidate selection"](https://journals.sagepub.com/doi/full/10.1177/1354068816663036) in *Party Politics*, 24(4), pp 382-396
