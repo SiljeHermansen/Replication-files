@@ -4,7 +4,7 @@ Online supplementary materials from my publications
 
 * **replication-files\_eup2026.zip**
 
-Gabel, Matthew, Hermansen, Silje Synnøve Lyder, Jay Krehbiel (2025) ["The politics of the Court of Justice of the European Union: A review"](https://www-tandfonline-com.ezproxy.uio.no/doi/full/10.1080/13501763.2020.1714697) in *European Union Politics*, 27(1), pp 1-45 
+Gabel, Matthew, Hermansen, Silje Synnøve Lyder, Jay Krehbiel (2026) ["The politics of the Court of Justice of the European Union: A review"](https://www-tandfonline-com.ezproxy.uio.no/doi/full/10.1080/13501763.2020.1714697) in *European Union Politics*, 27(1), pp 1-45 
 
 * **replication-files\_jepp2020_main_models.zip**
 
